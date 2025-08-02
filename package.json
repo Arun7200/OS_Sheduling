@@ -1,0 +1,12 @@
+{
+  "name": "cpuscheduler",
+  "version": "1.0.0",
+  "description": "Website link : https://bit.ly/3DWKMV6  or  https://ravipatel1309.github.io/CPUScheduler/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
